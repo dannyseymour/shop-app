@@ -57,6 +57,7 @@ const styles = StyleSheet.create({
     color: '#888',
     textAlign: 'center',
     marginVertical: 20,
+
   },
   description: {
     fontSize: 14,
@@ -66,4 +67,3 @@ const styles = StyleSheet.create({
 });
 
 export default ProductDetailScreen;
-
